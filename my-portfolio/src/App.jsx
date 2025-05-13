@@ -135,7 +135,7 @@ function App() {
 
           <section id='about-section' className='grid items-center pt-[80px] lg:pt-[100px]  text-white md:grid-cols-2  lg:gap-8 mb-[100px]'>
             <div ref={ref3} className={`flex duration-1000 mb-10 md:mb-0 justify-center items-center h-[400px] ${isVisible3 ? "translate-x-0 opacity-100" : "translate-x-[-40vw] opacity-0"}`}>
-              <img src="/images/selfImage.jpeg" className='w-[280px] md:w-[320px] lg:w-[450px] h-[300px] lg:h-[500px] shadow-lg shadow-green-200' alt="" />
+              <img src="/images/selfImage.jpeg" className='w-[280px] md:w-[300px] lg:w-[400px] h-[320px] md:h-[350px] lg:h-[500px] shadow-lg shadow-green-200' alt="" />
             </div>
             <div className={`duration-1000 ${isVisible4 ? "translate-y-0 opacity-100" : "translate-y-[30vh] md:translate-y-[40vh] opacity-0"}`} ref={ref4} >
               <p className='text-md uppercase font-bold text-green-500 mb-4 '>about me</p>
@@ -215,7 +215,7 @@ function App() {
         <footer className='mt-10 text-white border-2 border-green-500 py-[20px] md:py-[30px] lg:py-[50px] px-3'>
           <div className='max-w-[1170px] mx-auto py-[20px] md:py-[30px] lg:py-[50px]  border-b-2 border-green-500 grid md:grid-cols-2 lg:grid-cols-3 gap-10'>
             <div className=''>
-              <h1 className='text-[20px] mb-3 md:text-[25px] lg:text-[30px] lg:w-[50px] shadow-lg shadow-green-500'>☣☯𝙆𝙐𝙇𝘿𝙀𝙀𝙋☯☣</h1>
+              <h1 className='text-[20px] mb-3 md:text-[25px] lg:text-[30px] lg:w-[50px] shadow-lg shadow-green-500'>𝙆𝙐𝙇𝘿𝙀𝙀𝙋</h1>
               <p className='text-green-500 leading-9 mb-4 w-[280px]'>THANK YOU FOR VISITING MY WEBSITE.HOPE TO SEE YOU AGAIN SOON !   </p>
             </div>
 
