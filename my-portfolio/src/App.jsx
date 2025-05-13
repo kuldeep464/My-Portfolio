@@ -191,7 +191,7 @@ function App() {
 
                     <span className='flex gap3 items-center gap-3 hover:text-green-500 duration-300'>
                       <IoMail />
-                      <a href="mailto:kuldeeppoonia464@gmail.com" className=''> kuldeeppoonia464@gmail.com</a>
+                      <a href="mailto:codewithk.d@outlook.com" className=''> CodeWithK.D@outlook.com</a>
                     </span>
                   </div>
                 </div>
@@ -241,7 +241,7 @@ function App() {
               <h2 className='text-green-500 text-[17px] lg:text-[20px] mb-4 md:mb-6'>Contact Information</h2>
               <div className='flex flex-col'>
                 <a href='tel:+918397039304' className='hover:text-green-500 duration-300 cursor-pointer my-2'>+91 8397039304</a>
-                <a href='mailto:kuldeeppoonia464@gmail.com' className='hover:text-green-500 duration-300 cursor-pointer my-2'>kuldeeppoonia464@gmail.com</a>
+                <a href='mailto:codewithk.d@outlook.com' className='hover:text-green-500 duration-300 cursor-pointer my-2'>CodeWithK.D@outlook.com</a>
               </div>
 
 
