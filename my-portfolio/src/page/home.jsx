@@ -77,7 +77,7 @@ function Home() {
 
                   <li className='hover:border-b-[3px] border-red-800' >
                     <button onClick={() => scrollToSection('contact-section')}>Contact </button></li>
-                  <button onClick={() => window.location.href = '/resume.pdf'} className='border-[1px] hover:bg-red-600 hover:text-white duration-300 hover:scale-110 border-green-300 py-1 px-2 flex gap-2 items-center rounded-[5px]'>Resume <MdOutlineFileDownload /></button>
+                  <button onClick={() => window.location.href = '/React_Node_Kuldeep.pdf'} className='border-[1px] hover:bg-red-600 hover:text-white duration-300 hover:scale-110 border-green-300 py-1 px-2 flex gap-2 items-center rounded-[5px]'>Resume <MdOutlineFileDownload /></button>
                 </ul>
               </div>
               <div className='lg:hidden'>
@@ -108,7 +108,7 @@ function Home() {
                 <li>
                   <button onClick={() => scrollToSection('contact-section')}>Contact</button>
                 </li>
-                <button onClick={() => window.location.href = '/resume.pdf'} className='border-[1px] border-white py-1 px-2 flex gap-2 items-center rounded-[5px] w-[100px]'>Resume <MdOutlineFileDownload /></button>
+                <button onClick={() => window.location.href = '/React_Node_Kuldeep.pdf'} className='border-[1px] border-white py-1 px-2 flex gap-2 items-center rounded-[5px] w-[100px]'>Resume <MdOutlineFileDownload /></button>
               </ul>
             </div>
 
@@ -201,7 +201,7 @@ function Home() {
                   <div className='text-green-500 text-center font-bold py-3 border-b-2 border-green-500 md:text-[25px]'>Resume</div>
                   <p className='leading-9 md:text-[18px] text-center pt-3 pb-5'>And if you like what you see, feel free to check out my resume for more information in the link below !</p>
                   <div className='flex justify-center items-center'>
-                    <button onClick={() => window.location.href = '/resume.pdf'} className='flex hover:text-black hover:bg-green-500 font-bold duration-300 gap-3 items-center text-green-500 border-2 border-green-500 py-1 px-2 rounded-md'>DOWNLOAD HERE <FaDownload /> </button>
+                    <button onClick={() => window.location.href = '/React_Node_Kuldeep.pdf'} className='flex hover:text-black hover:bg-green-500 font-bold duration-300 gap-3 items-center text-green-500 border-2 border-green-500 py-1 px-2 rounded-md'>DOWNLOAD HERE <FaDownload /> </button>
                   </div>
                 </div>
               </div>
