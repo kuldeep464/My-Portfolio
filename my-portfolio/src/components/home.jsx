@@ -1,4 +1,7 @@
 
+
+import React from "react";
+
 import { FaBarsStaggered, FaDownload, FaLaptop, FaLaptopCode, FaMobile } from 'react-icons/fa6'
 import '.././App.css'
 import { MdOutlineFileDownload } from 'react-icons/md'
@@ -62,7 +65,7 @@ function Home() {
           <header ref={ref1} className={` w-[100%] px-2 lg:w-[1170px]  grid grid-cols-[25%_auto] py-2 justify-between  duration-700 items-center text-white ${isVisible1 ? "translate-y-0 opacity-100" : "translate-y-[-10vh] opacity-0"}`}>
             <div className='flex gap-5 items-center '>
               <img src="/images/kuldeepLogo.png" className='w-[30px] h-[30px]  lg:w-[50px] lg:h-[50px]  rounded-[50%] animate-rotate ' alt="" />
-              <p className='text-[14px] md:text-[17px] lg:text-2xl animate-wiggle'> hey! I'm Kuldeep </p>
+              <h1 className='text-[14px] md:text-[17px] lg:text-2xl animate-wiggle'> hey! I'm Kuldeep </h1>
             </div>
             <div className='relative lg:pt-2'>
               <div className='hidden lg:block'>
