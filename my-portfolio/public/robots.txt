@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-portfolio-hazel-iota-41.vercel.app/sitemap.xml
